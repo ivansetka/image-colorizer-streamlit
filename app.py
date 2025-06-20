@@ -64,5 +64,5 @@ with col1:
 
     st.markdown("""
         ---
-        Check out the full project and code on my [GitHub repo](https://github.com/Luka958/eval-fusion/tree/main) 🚀
+        Check out the full project and code on my [GitHub repo](https://github.com/ivansetka/image-colorizer) 🚀
     """)

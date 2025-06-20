@@ -30,8 +30,8 @@ Here’s a quick look at how the app works:
 
 ## 🌐 Try It Online
 
-This project is available as a live demo — no installation required!  
-👉 [Click here to try the app on Streamlit Cloud](https://todo-streamlit-app)!
+This project is available as a live demo — no installation required.  
+👉 [Click here to try the app on Streamlit Cloud](https://image-colorizer-app.streamlit.app/).
 
 
 <!-- GETTING STARTED -->
@@ -62,7 +62,7 @@ _If you'd prefer to run the project locally or modify the code, follow the setup
    pip install -r requirements.txt
    ```
 
-- You can now try out the models yourself using the weights which are available at the following [link](https://drive.google.com/drive/folders/1K3UN8jr7GVSo8uMA5TOrctzNTQlwlEQT?usp=sharing).
+- You can now try out the models yourself using the weights which are also available at the following [link](https://drive.google.com/drive/folders/1K3UN8jr7GVSo8uMA5TOrctzNTQlwlEQT?usp=sharing).
 
 ### 💻 Running the App
 
