@@ -1,3 +1,6 @@
+import os
+os.environ["STREAMLIT_SERVER_ENABLE_FILE_WATCHER"] = "false"
+
 from pathlib import Path
 
 import streamlit as st
