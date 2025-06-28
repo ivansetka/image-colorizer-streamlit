@@ -39,6 +39,15 @@ This project is available as a live demo — no installation required.
 
 _If you'd prefer to run the project locally or modify the code, follow the setup instructions below_ ⬇️
 
+### 🐳 Docker (recommended)
+   
+   ```sh
+   docker pull ivansetka/image-colorizer:1.0
+   docker run -p 8501:8501 ivansetka/image-colorizer:1.0
+   ```
+
+   This will open the application in your browser at `http://localhost:8501`.
+
 ### 📦 Installation
 
 1. Clone the repository:
@@ -64,11 +73,11 @@ _If you'd prefer to run the project locally or modify the code, follow the setup
 
 - You can now try out the models yourself using the weights which are also available at the following [link](https://drive.google.com/drive/folders/1K3UN8jr7GVSo8uMA5TOrctzNTQlwlEQT?usp=sharing).
 
-### 💻 Running the App
+4. Running the App
 
-To start the Streamlit app, run the following command from the root of the project:
+   To start the Streamlit app, run the following command from the root of the project:
    ```sh
    python -m streamlit run app.py
    ```
 
-This will open the application in your browser at `http://localhost:8501`.
+   This will open the application in your browser at `http://localhost:8501`.
